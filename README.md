@@ -2,12 +2,14 @@
 Writing a Web Application in Go.
 =======================================
 
-0. pck
+0. package
+```
 package main
 
 func main() {
 	
 }
+```
 
 1. install gorilla mux.
 - go get -u github.com/gorilla/mux
