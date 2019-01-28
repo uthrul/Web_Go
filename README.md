@@ -21,3 +21,6 @@ func main() {
 
 3. gorilla sessions
 -  go get -u github.com/gorilla/sessions
+
+3. crypto
+- go get golang.org/x/crypto/bcrypt
