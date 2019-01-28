@@ -18,9 +18,10 @@ func main() {
 - go get -u github.com/go-redis/redis
 - brew install redis
 - run server : redis-server & redis-cli
+- stop server : redis-cli shutdown
 
 3. gorilla sessions
 -  go get -u github.com/gorilla/sessions
 
-3. crypto
+4. crypto
 - go get golang.org/x/crypto/bcrypt
