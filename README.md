@@ -19,3 +19,5 @@ func main() {
 - brew install redis
 - run server : redis-server & redis-cli
 
+3. gorilla sessions
+-  go get -u github.com/gorilla/sessions
