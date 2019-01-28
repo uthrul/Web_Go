@@ -1,7 +1,7 @@
 # golang-webapp
 Writing a Web Application in Go.
 
-install gorilla mux.
+1. install gorilla mux.
 - go get -u github.com/gorilla/mux
 
 
