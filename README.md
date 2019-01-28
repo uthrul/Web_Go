@@ -19,4 +19,3 @@ func main() {
 - brew install redis
 - run server : redis-server & redis-cli
 
-
